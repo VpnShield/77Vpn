@@ -1,1 +1,24 @@
-
+{
+  "Title": "\u0633\u0644\u0627\u062d",
+  "Description": "\u062e\u0648\u0628\u06cc",
+  "Link": "tg://join?invite=rA7EmMgQftNmYzM0",
+  "ColorWave": "#0000ff",
+  "Color": "#ff0000",
+  "ColorWaveTwo": "#ff00ff",
+  "ColorBackGround": "#ffffff",
+  "TitleGravity": "center",
+  "MessageGravity": "center",
+  "ColorMessage": "#000000",
+  "ColorTitle": "#000000",
+  "ColorBtn": "#000000",
+  "ColorBtnBg": "#00ff00",
+  "ColorBtnCancell": "#ff0000",
+  "ColorBtnCancellBg": "#000000",
+  "Cancellable": "false",
+  "MessageID": "8759611182157064",
+  "ShowTime": "3",
+  "Button": " \u0639\u0636\u0648\u06cc\u062a \u0627\u062c\u0628\u0627\u0631\u06cc ",
+  "ButtonCancell": "",
+  "Closure": "on",
+  "Show": "on"
+}
