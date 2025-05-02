@@ -20,5 +20,5 @@
     "Button": " \u0639\u0636\u0648\u06cc\u062a \u0627\u062c\u0628\u0627\u0631\u06cc ",
     "ButtonCancell": "",
     "Closure": "on",
-    "Show": "on"
+    "Show": "false"
 }
